@@ -1,0 +1,14 @@
+layout_spectrum: 0.7292669
+color:
+  saturation: 0.6068543
+  lightness: 0.4766842
+  brandStrength: 0.5684965
+  rhythmicContrast: 0.6080985
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.3261649
+name: Getjenny
